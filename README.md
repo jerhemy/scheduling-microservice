@@ -1,5 +1,3 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=DaySmart_scheduling-reservation&token=827b5060f4b9c9c483542852cd20a1b7dad520ae)](https://sonarcloud.io/summary/new_code?id=DaySmart_scheduling-reservation)
-
 ## Scheduling API
 
 DaySmart Scheduling API providing functionality to other services.
