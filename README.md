@@ -1,4 +1,4 @@
-## Scheduling API
+## Scheduling Microservice
 
 Initial Proof of Concept for a Scheduling API providing functionality to other services.
 
