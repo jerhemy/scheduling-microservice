@@ -1,6 +1,6 @@
 ## Scheduling API
 
-DaySmart Scheduling API providing functionality to other services.
+Initial Proof of Concept for a Scheduling API providing functionality to other services.
 
 ### Information
 
