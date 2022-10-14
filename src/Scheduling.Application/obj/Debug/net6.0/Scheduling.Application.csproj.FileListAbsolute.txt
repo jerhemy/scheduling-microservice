@@ -1,0 +1,15 @@
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.csproj.AssemblyReference.cache
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.AssemblyInfoInputs.cache
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.AssemblyInfo.cs
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.csproj.CoreCompileInputs.cache
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\bin\Debug\net6.0\Scheduling.Application.deps.json
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\bin\Debug\net6.0\Scheduling.Application.dll
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\bin\Debug\net6.0\Scheduling.Application.pdb
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\bin\Debug\net6.0\Scheduling.Domain.dll
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\bin\Debug\net6.0\Scheduling.Domain.pdb
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.csproj.CopyComplete
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.dll
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\refint\Scheduling.Application.dll
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\Scheduling.Application.pdb
+D:\DaySmart\scheduling-reservation\src\Scheduling.Application\obj\Debug\net6.0\ref\Scheduling.Application.dll

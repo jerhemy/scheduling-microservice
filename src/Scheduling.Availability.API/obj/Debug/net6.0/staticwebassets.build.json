@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QJDqY6VZrRP+0zHGiHPClIEPD7zpAOl3IoEsZv8c5M8=",
+  "Source": "Scheduling.Availability.API",
+  "BasePath": "_content/Scheduling.Availability.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
